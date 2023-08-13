@@ -3,7 +3,7 @@ mime.py: A Discord bot that uses the `ctransformers` library for message inferen
 The bot responds to messages mentioning it, using a language model to infer the appropriate response.
 
 
-Copyright (C) https://github.com/xenasc
+Copyright (C) github.com/securitytheatre
 
 This file is part of mime.
 
